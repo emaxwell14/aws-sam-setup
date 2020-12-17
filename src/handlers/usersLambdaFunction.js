@@ -1,4 +1,7 @@
 const { Client } = require('pg')
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 exports.default = async (event) => {
   let res;

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84f6a46d-7feb-448b-aae0-a95b0234a881" name="Default Changelist" comment="" />
+    <list default="true" id="84f6a46d-7feb-448b-aae0-a95b0234a881" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.aws-sam/build/helloFromLambdaFunction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/helloFromLambdaFunction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.aws-sam/build/helloFromLambdaFunction/template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/helloFromLambdaFunction/template.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.aws-sam/build/template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.aws-sam/build/usersLambdaFunction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/usersLambdaFunction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.aws-sam/build/usersLambdaFunction/template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/usersLambdaFunction/template.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/usersLambdaFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/usersLambdaFunction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/template.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608211562264</updated>
-      <workItem from="1608211563469" duration="8509000" />
+      <workItem from="1608211563469" duration="8821000" />
     </task>
     <servers />
   </component>
