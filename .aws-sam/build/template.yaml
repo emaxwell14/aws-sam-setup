@@ -1,9 +1,0 @@
-Resources:
-  Function:
-    Type: AWS::Serverless::Function
-    Properties:
-      Timeout: 300
-      MemorySize: 128
-      Handler: src/handlers/usersLambdaFunction.default
-      CodeUri: Function
-      Runtime: nodejs10.x
